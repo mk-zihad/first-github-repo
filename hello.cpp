@@ -7,5 +7,5 @@ void greeting(string name){
 
 int main(){
     cout<<"Hello world!\n";
-    greeting("Zihad");
+    greeting("Rafi");
 }

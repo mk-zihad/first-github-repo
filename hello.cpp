@@ -13,4 +13,5 @@ int main(){
     cout<<"Hello world!\n";
     greeting("Zihad");
     cout<< sqr(9) << endl;
+    greeting("Rafi");
 }

@@ -1,17 +1,11 @@
 #include<iostream>
 using namespace std;
 
-void greeting(string name){
-    cout<<"Welcome "<<name <<" !\n";
-}
-
-int sqr (int n){
-    return n*n;
+void message(){
+    cout << "Hurray!!!\nNow I'm almost able to contribute in open source!";
 }
 
 int main(){
     cout<<"Hello world!\n";
-    greeting("Zihad");
-    cout<< sqr(9) << endl;
-    greeting("Rafi");
+    message();
 }
